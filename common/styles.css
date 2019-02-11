@@ -1964,7 +1964,7 @@ section{ padding: 50px 0; }
 
 /* ADDITIONAL CSS */
 .abs-blr > h4 {
-	font-size: 14px;
+	font-size: 16px;
 	overflow: hidden;
 	display: -webkit-box;
 	-webkit-line-clamp: 2;
