@@ -1970,3 +1970,10 @@ section{ padding: 50px 0; }
 	-webkit-line-clamp: 2;
 	-webkit-box-orient: vertical;
 }
+
+.spasi{
+	margin-top: 40px;
+	margin-left: 560px;
+	margin-bottom: 20px;
+	font-size: 9px;
+}
