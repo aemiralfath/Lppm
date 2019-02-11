@@ -1962,4 +1962,11 @@ section{ padding: 50px 0; }
 	
 }
 
-
+/* ADDITIONAL CSS */
+.abs-blr > h4 {
+	font-size: 14px;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
